@@ -1,4 +1,4 @@
-# WelcomeApp
+# LoginApp
 Login with Facebook/Google
 
 ## How to start
